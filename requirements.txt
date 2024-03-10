@@ -1,6 +1,6 @@
 pandas
-matplotlib.pyplot
+matplotlib
 seaborn
 ipywidgets
 plotly
-IPython.display
+IPython
